@@ -35,7 +35,6 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Launcher3 \
-    Music \
     MusicFX \
     OneTimeInitializer \
     PrintSpooler \
