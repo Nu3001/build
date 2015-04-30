@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
     libstagefright_omx \
     libstagefright_yuv \
     host-libprotobuf-java-2.3.0-nano \
+    host-libprotobuf-java-2.3.0-lite \
     libusbhost \
     libutils \
     libvisualizer \
@@ -107,6 +108,7 @@ PRODUCT_PACKAGES += \
     webview \
     wm \
     genext2fs \
+    btfw \
     mkyaffs2image
 
 
