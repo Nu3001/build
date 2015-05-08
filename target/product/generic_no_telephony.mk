@@ -36,6 +36,7 @@ PRODUCT_PACKAGES := \
     Launcher2 \
     Launcher3 \
     MusicFX \
+    Apollo \
     OneTimeInitializer \
     PrintSpooler \
     Provision \
