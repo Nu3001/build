@@ -244,7 +244,7 @@ class EdifyGenerator(object):
 
   def ClearMiscCommand(self):
     """clear misc command"""
-    self.script.append('clear_misc_command();')
+#    self.script.append('clear_misc_command();')
 
   def SetPermissions(self, fn, uid, gid, mode, selabel, capabilities):
     """Set file ownership and permissions."""
